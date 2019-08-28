@@ -4,7 +4,7 @@
   "description": "task for 1 stage of rs school",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "mocha index.test.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/davojta/js-edu#readme",
   "dependencies": {
-    "jest": "^24.9.0"
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
   }
 }
