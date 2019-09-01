@@ -1,10 +1,10 @@
 # JS EDU
 
 ## History
-The Rolling Scopes School is widely known for its difficult curriculum that takes a lot of time. It usually takes 800 hours (give or take) to master the JavaScript language, its ecosystem and related tools. About 500 hours are required to learn pretty basic programming (loops, if-else operators (flow of control), basic data structures and algorithms) from scratch.
+The Rolling Scopes School is widely known for its difficult curriculum that takes a lot of time. It usually takes 800 hours to master the JavaScript language, its ecosystem and related tools. About 500 hours are required to learn pretty basic programming (loops, if-else operators (flow of control), basic data structures and algorithms) from scratch.
 
 ## Task
-Your task is to implement the `getTimeForEducation` function that calculates how many weeks the *education process* would take under given conditions. The function should take the current student status as string and config of how quickly student can study. The function should return the amount of weeks required to complete the course.
+Your task is to implement the `getTimeForEducation` function that calculates how many weeks the *education process* would take under given conditions. The function should take the current student priority as string and config of how quickly student can study. The function should return the amount of weeks required to complete the course.
 
 For example:
 ```js
