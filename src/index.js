@@ -9,6 +9,6 @@ module.exports = function getTimeForEducation(
     knowsProgramming = true,
     config = {family: 4}
     ) {
-
+      return 0;
   };
   
